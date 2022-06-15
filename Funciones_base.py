@@ -1,1 +1,2 @@
-print("Prueba creación desde Github")
+def func_base():
+  return(print("Función base"))
